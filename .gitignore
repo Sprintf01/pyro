@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.py[cod]
+
+outputs/
+data/raw/
+data/processed/
+data/datasets/
+PyroDatasets/
+
+*.wav
+*.mp3
+*.flac
+*.ogg
+
+.DS_Store
+Thumbs.db
